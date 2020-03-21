@@ -1,0 +1,781 @@
+23:54 ‏16/‏03/‏202023:54 ‏16/‏03/‏Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 1
+
+Enter ID licence(between 1 to 9999) for the new bus:
+0
+ERROR
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 2
+
+Enter ID licence(between 1 to 9999) for the new bus:
+111
+Enter number of seats(between 8 to 60) for the new bus:
+7
+ERROR
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 3
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+11
+Enter a number between 1 to 9 to assign a line,
+to unassign enter 0:
+1
+ERROR
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 4
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+11
+Enter a name(til 100 charecters) to assign a name for a driver:
+eli
+ERROR
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 5
+
+Enter ID licence(between 1 to 9999) for the bus that you want to delete:
+11
+ERROR
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 6
+
+Amount of buses: 0
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 7
+
+Enter the ID licence(between 1 to 9999) of the bus that you want to see his details:
+11
+ID Not found
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 8
+
+Enter the line that you want to see his details:
+1
+there isnt buses in this line
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 9
+there isnt buses in the fleet
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 1
+
+Enter ID licence(between 1 to 9999) for the new bus:
+111
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 1
+
+Enter ID licence(between 1 to 9999) for the new bus:
+222
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 1
+
+Enter ID licence(between 1 to 9999) for the new bus:
+333
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 2
+
+Enter ID licence(between 1 to 9999) for the new bus:
+666
+Enter number of seats(between 8 to 60) for the new bus:
+12
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 2
+
+Enter ID licence(between 1 to 9999) for the new bus:
+555
+Enter number of seats(between 8 to 60) for the new bus:
+11
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 2
+
+Enter ID licence(between 1 to 9999) for the new bus:
+444
+Enter number of seats(between 8 to 60) for the new bus:
+10
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 3
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+111
+Enter a number between 1 to 9 to assign a line,
+to unassign enter 0:
+1
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 3
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+333
+Enter a number between 1 to 9 to assign a line,
+to unassign enter 0:
+1
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 3
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+555
+Enter a number between 1 to 9 to assign a line,
+to unassign enter 0:
+1
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 3
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+222
+Enter a number between 1 to 9 to assign a line,
+to unassign enter 0:
+1
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 3
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+444
+Enter a number between 1 to 9 to assign a line,
+to unassign enter 0:
+1
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 3
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+666
+Enter a number between 1 to 9 to assign a line,
+to unassign enter 0:
+1
+ERROR
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 8
+
+Enter the line that you want to see his details:
+1
+Bus id: 111
+Bus seats: 50
+Bus line: 1
+No Driver is assigned
+
+Bus id: 222
+Bus seats: 50
+Bus line: 1
+No Driver is assigned
+
+Bus id: 333
+Bus seats: 50
+Bus line: 1
+No Driver is assigned
+
+Bus id: 444
+Bus seats: 10
+Bus line: 1
+No Driver is assigned
+
+Bus id: 555
+Bus seats: 11
+Bus line: 1
+No Driver is assigned
+
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 4
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+111
+Enter a name(til 100 charecters) to assign a name for a driver:
+eli
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 4
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+222
+Enter a name(til 100 charecters) to assign a name for a driver:
+avisha4y
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 9
+Bus id: 111
+Bus seats: 50
+Bus line: 1
+Bus driver: eli
+
+Bus id: 222
+Bus seats: 50
+Bus line: 1
+Bus driver: avishy
+
+Bus id: 333
+Bus seats: 50
+Bus line: 1
+No Driver is assigned
+
+Bus id: 444
+Bus seats: 10
+Bus line: 1
+No Driver is assigned
+
+Bus id: 555
+Bus seats: 11
+Bus line: 1
+No Driver is assigned
+
+Bus id: 666
+Bus seats: 12
+No line is assigned
+No Driver is assigned
+
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 3
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+333
+Enter a number between 1 to 9 to assign a line,
+to unassign enter 0:
+2
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 3
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+666
+Enter a number between 1 to 9 to assign a line,
+to unassign enter 0:
+1
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 8
+
+Enter the line that you want to see his details:
+1
+Bus id: 111
+Bus seats: 50
+Bus line: 1
+Bus driver: eli
+
+Bus id: 222
+Bus seats: 50
+Bus line: 1
+Bus driver: avishy
+
+Bus id: 444
+Bus seats: 10
+Bus line: 1
+No Driver is assigned
+
+Bus id: 555
+Bus seats: 11
+Bus line: 1
+No Driver is assigned
+
+Bus id: 666
+Bus seats: 12
+Bus line: 1
+No Driver is assigned
+
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 8
+
+Enter the line that you want to see his details:
+2
+Bus id: 333
+Bus seats: 50
+Bus line: 2
+No Driver is assigned
+
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 5
+
+Enter ID licence(between 1 to 9999) for the bus that you want to delete:
+333
+ERROR
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 3
+
+Enter ID licence(between 1 to 9999) for the bus that you want to assign a line:
+333
+Enter a number between 1 to 9 to assign a line,
+to unassign enter 0:
+0
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 8
+
+Enter the line that you want to see his details:
+2
+there isnt buses in this line
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 5
+
+Enter ID licence(between 1 to 9999) for the bus that you want to delete:
+333
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 9
+Bus id: 111
+Bus seats: 50
+Bus line: 1
+Bus driver: eli
+
+Bus id: 222
+Bus seats: 50
+Bus line: 1
+Bus driver: avishy
+
+Bus id: 444
+Bus seats: 10
+Bus line: 1
+No Driver is assigned
+
+Bus id: 555
+Bus seats: 11
+Bus line: 1
+No Driver is assigned
+
+Bus id: 666
+Bus seats: 12
+Bus line: 1
+No Driver is assigned
+
+Menu options:
+
+          0 -- exit the program
+          1 -- create a bus with 50 seats
+          2 -- create a bus with N seats
+          3 -- assign line to a bus
+          4 -- assign driver to a bus
+          5 -- remove a bus from the fleet
+          6 -- show the amount of the buses in the fleet
+          7 -- show a bus information
+          8 -- show line bus list
+          9 -- show all the the buses in the fleet
+
+Please choose a menu option: 0
+Thanx for using Bus Fleet Management Program!
