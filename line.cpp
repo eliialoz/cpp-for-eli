@@ -76,5 +76,5 @@ uint lineGetAmount(uint amuontINline)
 {
 	return lines[amuontINline - 1].busesAmount;
 }
-//                                  "hello";
+//                                  
 // corona
