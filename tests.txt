@@ -1,4 +1,4 @@
-23:54 ‏16/‏03/‏202023:54 ‏16/‏03/‏Menu options:
+﻿23:54 ‏16/‏03/‏202023:54 ‏16/‏03/‏Menu options:
 
           0 -- exit the program
           1 -- create a bus with 50 seats
@@ -779,3 +779,4 @@ Menu options:
 
 Please choose a menu option: 0
 Thanx for using Bus Fleet Management Program!
+hello
