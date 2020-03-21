@@ -1,0 +1,8 @@
+﻿  bus.cpp
+C:\Users\אבישי פרקש\source\repos\cpp_01_1534_ 8790\bus.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\אבישי פרקש\source\repos\cpp_01_1534_ 8790\bus.cpp(42,8): warning C4018: '<': signed/unsigned mismatch
+C:\Users\אבישי פרקש\source\repos\cpp_01_1534_ 8790\bus.cpp(68,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\אבישי פרקש\source\repos\cpp_01_1534_ 8790\bus.cpp(88,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\אבישי פרקש\source\repos\cpp_01_1534_ 8790\bus.cpp(118,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\אבישי פרקש\source\repos\cpp_01_1534_ 8790\bus.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+  cpp_01_1534_ 8790.vcxproj -> C:\Users\אבישי פרקש\source\repos\cpp_01_1534_ 8790\Debug\cpp_01_1534_ 8790.exe
